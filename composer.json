@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/fiqh-php-high-latitude-salah",
+  "description": "High-Latitude Abnormal Night Fajr/Isha Estimation Engine (معالج مواقيت الصلاة في المناطق القطبية والعروض العليا)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
